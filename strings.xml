@@ -806,7 +806,7 @@ Please note: you wont be able to search friends or log in with a deleted number.
     <string name="delete">Delete</string>
     <string name="err_code_23001_msg">Internal error, please try again or e-mail support@mitalk.com</string>
     <string name="nonencrypt_tips">Link phone number to your account to make friend search easier.</string>
-    <string name="SDcard_tip_when_take_gif">SD card is required to create or save GIF fisle.</string>
+    <string name="SDcard_tip_when_take_gif">SD card is required to create or save GIF files.</string>
     <string name="animemoji_16_04">昏</string>
     <string name="namecard_item_add_more_contact_info">Add more contacts</string>
     <string name="connecting_to_sina_failed">Failed to connect Sina, please check your network connection.</string>
