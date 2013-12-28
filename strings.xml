@@ -2996,7 +2996,7 @@ Please follow the instructions contained in the e-mail to complete verification 
     <string name="initializing_channel">Loading...</string>
     <string name="restore_buddies_negative">Cancel</string>
     <string name="pop_message_enabled_desc">Allow pop-up notifications</string>
-    <string name="no_topics">"You haven't ed or followed any topics."</string>
+    <string name="no_topics">"You haven't created or followed any topics."</string>
     <string name="logoff_remind">"You haven't confirmed your e-mail address. You will be unable to log in or restore password until you have successfully verified."</string>
     <string name="input_account_hint">MiID/E-mail</string>
     <string name="new_notification">You have new notifications, pull to refresh.</string>
