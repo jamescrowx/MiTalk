@@ -2849,7 +2849,7 @@ Tap arrow to switch between video and audio messaging modes."</string>
     <string name="create_user_too_many_times">You have tried to create a user too many times, please try again later.</string>
     <string name="sixin_all_people">All</string>
     <string name="upgrade_pkg_downloaded_title">Update available</string>
-    <string name="send_pwd_by_sms"SMS has been sent to your phone number. Please follow the link to reset your password.</string>
+    <string name="send_pwd_by_sms"></string>SMS has been sent to your phone number. Please follow the link to reset your password.</string>
     <string name="app_center_miba_tips">最好玩的语音社区</string>
     <string name="relational_friend_number_header_cor">You have %1$s colleague(s) on MiTalk.</string>
     <string name="muc_board_tips">这是本群诞生的第一天</string>
