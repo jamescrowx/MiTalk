@@ -800,7 +800,7 @@ Please note: you wont be able to search friends or log in with a deleted number.
     <string name="smiley_tab_right">MiMotion</string>
     <string name="act_find_city_locate_failed">Failed to locate.</string>
     <string name="animemoji_16_01">Hi</string>
-    <string name="common_find_pwd_by_phone_email">Retrieve password using Phonphone or e-mail.</string>
+    <string name="common_find_pwd_by_phone_email">Retrieve password using phone or e-mail.</string>
     <string name="err_code_24008_msg">Timeout occurred, please try again later.</string>
     <string name="namecard_pop_menu_block">Block</string>
     <string name="delete">Delete</string>
