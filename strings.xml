@@ -570,7 +570,7 @@ Please note: You wont be able to search friends or log in with a deleted e-mail.
     <string name="new_namecard_muc">Groups joined</string>
     <string name="common_input_phone">Please input phone number</string>
     <string name="common_please_input_your_name">Please input your name</string>
-    <string name="common_pls_input_sina_weibo_account"Please inout Sina Weibo account</string>
+    <string name="common_pls_input_sina_weibo_account"></string>Please inout Sina Weibo account</string>
     <string name="common_set_new_pwd">Set new password (must be between 8–16 chars)</string>
     <string name="common_need">Required</string>
     <string name="upload_avatar_success">Uploaded!</string>
@@ -1903,7 +1903,7 @@ You currently have %2$s MiCredit(s)."</string>
     <string name="group_create_error_unknown">Unknown error occurred, please report the problem to the MiTalk team.</string>
     <string name="recipient_selection_common">Recent</string>
     <string name="muc_setting_goto_chat">Start chatting</string>
-    <string name="spread_access_imme">Join now!</string></string>
+    <string name="spread_access_imme">Register now!</string>
     <string name="friend_list_load_more">More</string>
     <string name="test_1">you like</string>
     <string name="video_continue">Continue to video?</string>
